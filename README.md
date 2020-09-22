@@ -4,3 +4,8 @@
 
 
 
+I'm Olive.Wang, a software engineer, live in Shanghai China at present.
+
+- 🎁   JavaScript/TypeScript/Angular/Vue/React/Electron
+- 🛠   Nodejs/Golang/Python, a little bit of C#
+- 🎿   Coding/Skateboarding/Photography, and other interesting things
