@@ -4,7 +4,7 @@
 
 
 
-I'm Olive.Wang, a software engineer, live in Shanghai China at present. now leading a R&D team to do some work to help improve efficiency.
+I'm Olive.Wang, a software engineer, live in Shanghai China at present. Now I am leading the R&D team to make some tools to help improve efficiency.
 
 - 🎁  &nbsp; JavaScript/TypeScript/Angular/Vue/React/Electron
 - 🛠  &nbsp; Nodejs/Golang/Python, a little bit of C#
