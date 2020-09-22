@@ -8,4 +8,7 @@ I'm Olive.Wang, a software engineer, live in Shanghai China at present.
 
 - 🎁  &nbsp; JavaScript/TypeScript/Angular/Vue/React/Electron
 - 🛠  &nbsp; Nodejs/Golang/Python, a little bit of C#
+- 🚕  &nbsp; Docker/K8S/Nginx, and some powerful tools
 - 🎿  &nbsp; Coding/Skateboarding/Photography, and other interesting things
+
+Contact me at [Zhihu](https://www.zhihu.com/people/san-huan-mei-you-shao) or [GitHub](https://github.com/olivewind)
