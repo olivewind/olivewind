@@ -4,4 +4,4 @@
 <img alt="olivewind's github stats" src="https://github-readme-stats.vercel.app/api?username=olivewind&show_icons=true">
 
 
-Contact me at [liguo.run](https://liguo.run/)
+Contact me at [liguo.run](https://liguo.run?utm_source=github&utm_medium=readme)
